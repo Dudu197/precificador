@@ -1,0 +1,1290 @@
+[
+    {
+        "gpu": "2-WAY SLI 1080TI FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "2-WAY SLI 1080TI FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "2-WAY SLI 1080TI FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "2-WAY SLI 980TI",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "2-WAY SLI 980TI",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "2-WAY SLI 980TI",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "AMD R9 Fury X",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "AMD R9 Fury X",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "AMD R9 Fury X",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "AMD RADEON PRO DUO",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "AMD RADEON PRO DUO",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "AMD RADEON R9 295X2",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "AMD RADEON R9 295X2",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GT 1030",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GT 1030",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GT 1030",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1050",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1050",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1050",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1050",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1050",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1050",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1050 Ti",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1060 3GB",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1060 3GB",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1060 3GB",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1060 3GB",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1060 3GB",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1060 3GB",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1060 6GB",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1060 6GB PCYES",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1070 HOF",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "GTX 1070 Ti FE",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1080 FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "GTX 1080 FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "GTX 1080 FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1080 FE",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1080 HOF",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1080 HOF",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1080 HOF",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1080 HOF",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1080 HOF",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1080 HOF",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1080 TI FE",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1080 Ti SC2",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1080 Ti SC2",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1080 Ti SC2",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1650",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1650",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1650",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 1650",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 1660",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1660",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1660",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1660",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1660",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 1660",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 1660 SUPER",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1660 SUPER",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1660 SUPER",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 1660 SUPER",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 1660 SUPER",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "CORE I3 9100F"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 1660TI",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "GTX 1660TI PCYES",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 660",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 660",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 660",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 750 Ti",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 750 Ti",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 750 Ti",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 770",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 770",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 770",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 950 FTW",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 950 FTW",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 950 FTW",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 960 2GB",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 960 2GB",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 960 2GB",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 960 4GB",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 960 4GB",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 960 4GB",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 980 G1 Gaming",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 980 Ti Hybrid",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 980 Ti Hybrid",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 980 Ti Hybrid",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 980 Ti Hybrid",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 980 Ti Hybrid",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "GTX 980 Ti",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 980 Ti",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 980 Ti",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX Titan X (Hybrid)",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX Titan X (Hybrid)",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX Titan X (Hybrid)",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 760 4GB",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 760 4GB",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 760 4GB",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 970 Hybrid",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "GTX 970 Hybrid",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "GTX 970 Hybrid",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "GTX 970 Hybrid",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "GTX 970 Hybrid",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 2060 6GB FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RTX 2060 6GB FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RTX 2060 6GB FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2060 6GB FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 2060 6GB FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 2060 6GB FE",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RTX 2060 PCYES",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "CORE I3 9100F"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "CORE I5 9400F"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 2060 SUPER FE",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RTX 2070",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RTX 2070",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RTX 2070",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2070",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 2070",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "CORE I3 9100F"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "CORE I5 9400F"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 2070 SUPER FE",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RTX 2070 SUPER PCYES",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2070 SUPER PCYES",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 2070 SUPER PCYES",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 2080 FE",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RTX 2080 FE",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RTX 2080 FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2080 FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 2080 FE",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "CORE I3 9100F"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "CORE I5 9400F"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 2080 SUPER FE",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Ryzen 5 3400G"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 2080 TI FE",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 3060 TI FE",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 3070 FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 3070 GAINWARD",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 3070 PCYES",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 3070 TI SG GALAX",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RTX 3080 FE",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3080 FE",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 3080 FE",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Core I3 10100"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Core I3 12100F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Core I5 10400F"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Core I5 12400F (DDR5)"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Core I7 10700"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Ryzen 3 3300X"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Ryzen 5 5600x"
+    },
+    {
+        "gpu": "RTX 3080 GALAX",
+        "cpu": "Ryzen 7 1700"
+    },
+    {
+        "gpu": "RX 550",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RX 550",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RX 550",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 550",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RX 550",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RX 560",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RX 560",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RX 560",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 560",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RX 560",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RX 570",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RX 570",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RX 570",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 570",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RX 570",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RX 5700",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 5700",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RX 5700",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RX 5700 XT",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 5700 XT",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RX 5700 XT",
+        "cpu": "Ryzen 7 3800X"
+    },
+    {
+        "gpu": "RX 580 4GB",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 580 STRIX",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RX 580 STRIX",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RX 580 STRIX",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "RX 580 STRIX",
+        "cpu": "Ryzen 5 2600"
+    },
+    {
+        "gpu": "RX 580 STRIX",
+        "cpu": "Ryzen 5 3600"
+    },
+    {
+        "gpu": "RX 580 STRIX",
+        "cpu": "Ryzen 7 2700"
+    },
+    {
+        "gpu": "RX VEGA 64",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "RX VEGA 64",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "RX VEGA 64",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "Titan V",
+        "cpu": "CORE I3 8100"
+    },
+    {
+        "gpu": "Titan V",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "Titan V",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "Titan V",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "Titan V",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "Titan V",
+        "cpu": "PENTIUM G4560"
+    },
+    {
+        "gpu": "Titan XP Star Wars",
+        "cpu": "CORE I5 7400"
+    },
+    {
+        "gpu": "Titan XP Star Wars",
+        "cpu": "CORE I5 8400"
+    },
+    {
+        "gpu": "Titan XP Star Wars",
+        "cpu": "CORE I7 7700"
+    },
+    {
+        "gpu": "Titan XP Star Wars",
+        "cpu": "CORE I7 8700"
+    },
+    {
+        "gpu": "Titan XP Star Wars",
+        "cpu": "PENTIUM G4560"
+    }
+]
